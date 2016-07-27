@@ -1,1 +1,1 @@
-Prototype for game based on Mother series.
+Prototype
